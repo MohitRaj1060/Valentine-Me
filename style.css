@@ -212,6 +212,15 @@ main{
     color: red;
 }
 
+.my a{
+    text-decoration: none;
+    color: rgb(226, 43, 89);
+}
+.my a:hover{
+    color: red;
+    
+}
+
 footer{
     height: 70px;
     width: 100%;
